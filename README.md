@@ -49,69 +49,54 @@ These visualizations are presented in the project’s Jupyter notebook and integ
 
 ## Key Findings
 1️⃣ **Genre Profitability**
-
-🎭 Comedy, Drama, and Action & Adventure are the most profitable genres.
-
-🚀 Science Fiction & Fantasy films have high earning potential, especially in recent years.
-
-❌ Western, Special Interest, and Sports & Fitness films have limited audience demand.
+- Comedy, Drama, and Action & Adventure are the most profitable genres.
+- Science Fiction & Fantasy films have high earning potential, especially in recent years.
+- Western, Special Interest, and Sports & Fitness films have limited audience demand.
 
 2️⃣ **Budget vs. Revenue**
-
-💰 Higher budgets generally lead to higher revenue, but not always proportionally.
-
-🎬 Horror movies achieve high profits on low budgets, making them a great low-risk investment.
-
-🎥 Action & Adventure and Sci-Fi films demand large budgets but yield significant returns.
+- Higher budgets generally lead to higher revenue, but not always proportionally.
+- Horror movies achieve high profits on low budgets, making them a great low-risk investment.
+- Action & Adventure and Sci-Fi films demand large budgets but yield significant returns.
 
 3️⃣ **Critical Ratings vs. Box Office**
-
-⭐ Highly rated films tend to perform better.
-
-🎞️ Drama & Sci-Fi benefit the most from strong ratings.
-
-🤣 Comedy & Horror are polarizing—audience reception significantly impacts success.
+- Highly rated films tend to perform better.
+- Drama & Sci-Fi benefit the most from strong ratings.
+- Comedy & Horror are polarizing—audience reception significantly impacts success.
 
 4️⃣ **Highest Earning Studios**
-
-🏆 Disney, Warner Bros., and Universal dominate the box office due to strong franchises and marketing.
+- Disney, Warner Bros., and Universal dominate the box office due to strong franchises and marketing.
 
 5️⃣ **Seasonality in Revenue**
-
-📈 Best release months: June, July, May, November, and December.
-
-📉 Worst months for releases: January, September, and October.
-
-🔄 Moderate months: February, March, April, and August.
+- Best release months: June, July, May, November, and December.
+- Worst months for releases: January, September, and October.
+- Moderate months: February, March, April, and August.
 
 6️⃣ **Market Trends**
-
-🌍 International box office often surpasses domestic earnings, especially for blockbusters.
-
-🎭 Comedy & Drama perform better domestically, showing cultural preferences.
+- International box office often surpasses domestic earnings, especially for blockbusters.
+- Comedy & Drama perform better domestically, showing cultural preferences.
 
  ## Recommendations
-✔️ **Invest in High-Profit Genres**
-🎬 Prioritize Comedy, Drama, Action & Adventure, and Sci-Fi & Fantasy films for maximum returns.
+✔️ **Invest in High-Profit Genres:** 
+- Prioritize Comedy, Drama, Action & Adventure, and Sci-Fi & Fantasy films for maximum returns.
 
-✔️ **Strategic Budget Allocation**
-💵 Control high-budget productions to ensure proportional revenue returns.
-🎭 Horror films offer great ROI on low budgets, making them a valuable investment.
+✔️ **Strategic Budget Allocation:**
+- Control high-budget productions to ensure proportional revenue returns.
+- Horror films offer great ROI on low budgets, making them a valuable investment.
 
-✔️ **Leverage Ratings for Success**
-📢 Enhance storytelling, casting, and audience engagement to boost ratings and profitability.
+✔️ **Leverage Ratings for Success:**
+- Enhance storytelling, casting, and audience engagement to boost ratings and profitability.
 
-✔️ **Expand Global Market Reach**
-🌍 Action, Sci-Fi, and Fantasy perform best internationally.
-🎥 Studios should localize content (subtitles, dubbing) for broader reach.
+✔️ **Expand Global Market Reach:**
+- Action, Sci-Fi, and Fantasy perform best internationally.
+- Studios should localize content (subtitles, dubbing) for broader reach.
 
-✔️ **Adapt to Industry Trends**
-📉 Declining box office revenue post-2016 suggests streaming impacts traditional cinema.
-💡 Studios should consider hybrid release strategies (theatrical + streaming).
+✔️ **Adapt to Industry Trends:**
+- Declining box office revenue post-2016 suggests streaming impacts traditional cinema.
+- Studios should consider hybrid release strategies (theatrical + streaming).
 
-✔️ **Optimize Movie Release Timing**
-📆 Blockbusters should launch in high-earning months (June, July, May, November, December).
-🚫 Avoid major releases in January, September, and October due to lower revenue trends.
+✔️ **Optimize Movie Release Timing:**
+- Blockbusters should launch in high-earning months (June, July, May, November, December).
+- Avoid major releases in January, September, and October due to lower revenue trends.
 
 ## Conclusion
 
@@ -126,24 +111,27 @@ These visualizations are presented in the project’s Jupyter notebook and integ
 - **Impact of ratings:** Higher critic and audience ratings positively correlate with box office earnings
 
 ## Limitations & Future Work
-⚠️ **Limitations**
-📉 Incomplete Data: Streaming platforms' impact on box office is not fully covered.
-🎭 Changing Industry Trends: Viewer preferences evolve—future studies should account for emerging genres.
+**Limitations**
+- Incomplete Data: Streaming platforms' impact on box office is not fully covered.
+- Changing Industry Trends: Viewer preferences evolve—future studies should account for emerging genres.
 
-🚀 **Future Work**
-🤖 Machine Learning for Predicting Movie Success.
-🌍 Deeper analysis of global vs. domestic performance by region.
-🔄 Impact of streaming platforms on box office earnings.
+**Future Work**
+- Machine Learning for Predicting Movie Success.
+- Deeper analysis of global vs. domestic performance by region.
+- Impact of streaming platforms on box office earnings.
 
 ## 🙌 Acknowledgments
 We would like to express our gratitude to:
 
-🎥 Data Sources: IMDb, Box Office Mojo, and other platforms for providing invaluable movie industry data.
-🎓 Moringa School: For supporting our learning journey.
-👥 Project Team (Group 5): For their dedication, insights, and collaboration in making this project a success.
+- 🎥 Data Sources: IMDb, Box Office Mojo, and other platforms for providing invaluable movie industry data.
+- 🎓 Moringa School: For supporting our learning journey.
+- 👥 Project Team (Group 5): For their dedication, insights, and collaboration in making this project a success.
+     - https://github.com/Allan-Ofula
+     - https://github.com/rurigi-waweru
+     - https://github.com/PamGodia
 
 This analysis is a step toward understanding movie industry trends, and we hope it serves as a valuable reference for decision-makers. 🎬
 
 ### 📌 Let’s Connect!
-🔗 LinkedIn: https://www.linkedin.com/in/allan-ofula-b2804911b/
-🐙 GitHub: https://allan-ofula.github.io/, https://github.com/Allan-Ofula
+- 🔗 LinkedIn: https://www.linkedin.com/in/allan-ofula-b2804911b/
+- 🐙 GitHub: https://allan-ofula.github.io/, https://github.com/Allan-Ofula
