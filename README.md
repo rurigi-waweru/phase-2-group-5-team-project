@@ -128,7 +128,7 @@ We would like to express our gratitude to:
 - 👥 Project Team (Group 5): For their dedication, insights, and collaboration in making this project a success.
      - https://github.com/Allan-Ofula
      - https://github.com/PamGodia
-     - https://github.com/rurigi-waweru
      - https://github.com/jamesggatonye
+     - https://github.com/rurigi-waweru
 
 This analysis is a step toward understanding movie industry trends, and we hope it serves as a valuable reference for decision-makers. 🎬
