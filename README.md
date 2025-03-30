@@ -127,11 +127,8 @@ We would like to express our gratitude to:
 - 🎓 Moringa School: For supporting our learning journey.
 - 👥 Project Team (Group 5): For their dedication, insights, and collaboration in making this project a success.
      - https://github.com/Allan-Ofula
-     - https://github.com/rurigi-waweru
      - https://github.com/PamGodia
+     - https://github.com/rurigi-waweru
+     - https://github.com/jamesggatonye
 
 This analysis is a step toward understanding movie industry trends, and we hope it serves as a valuable reference for decision-makers. 🎬
-
-### 📌 Let’s Connect!
-- 🔗 LinkedIn: https://www.linkedin.com/in/allan-ofula-b2804911b/
-- 🐙 GitHub: https://allan-ofula.github.io/, https://github.com/Allan-Ofula
