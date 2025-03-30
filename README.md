@@ -4,7 +4,7 @@
 This project explores key factors that contribute to a movie's financial success, leveraging data from multiple sources to provide actionable insights for industry stakeholders. Through Exploratory Data Analysis (EDA) and data-driven recommendations, we aim to optimize decision-making for film studios, producers, and investors.
 
 
-## 2.0 Business Understanding
+## Business Understanding
 ### Problem Statement
 Our company now sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. We are charged with exploring what types of films are currently doing the best at the box office. Then translate the findings into actionable insights that the head of our company's new movie studio can use to help decide what type of films to create.
 
